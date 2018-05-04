@@ -11,3 +11,7 @@ This project is designed to put file types into a table and automatically detect
 |id|fileName|fileType|title|description|addDate|
 |:-|:-------|:-------|:----|:----------|:------|
 |1|Music|mp3|Jimi Hendrix|Purple Haze|2018-05-04 15:00:00|
+|2|Notes|docx|CS3380|Markdown Paper|2018-05-04 15:01:00|
+|3|HW|docx|CS2050|Final Project|2018-05-04 15:02:30|
+|4|Pics|jpeg|Funny|Memes|2018-05-04 15:05:00|
+|5|Movies|mov|StarWars|This is a movie about...|2018-05-04 16:03:17|
