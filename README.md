@@ -15,3 +15,10 @@ This project is designed to put file types into a table and automatically detect
 |3|HW|docx|CS2050|Final Project|2018-05-04 15:02:30|
 |4|Pics|jpeg|Funny|Memes|2018-05-04 15:05:00|
 |5|Movies|mov|StarWars|This is a movie about...|2018-05-04 16:03:17|
+
+
+#### Table: ***user***
+
+|id|loginID|password|firstName|lastName|
+|:-|:------|:-------|:--------|--------|
+|1|test|aiulfh08awfuisjn0w9$zsg^sdg!zxfa...|Kyle|Rosswick|
