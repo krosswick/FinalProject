@@ -22,3 +22,23 @@ This project is designed to put file types into a table and automatically detect
 |id|loginID|password|firstName|lastName|
 |:-|:------|:-------|:--------|--------|
 |1|test|aiulfh08awfuisjn0w9$zsg^sdg!zxfa...|Kyle|Rosswick|
+
+
+# Entity Relationship Diagram (ERD):
+
+
+# CRUD
+
+#### Creates:
+Records
+
+#### Reads:
+Files, user
+
+#### Updates:
+by editing information
+
+#### Deletes:
+by deleting information
+
+# Link to demonstration video:
